@@ -1,4 +1,4 @@
-Aim of this repo is to understand different integratiosn of map utilites with React, and try accessing some of the underlying maps' data.
+Aim of this repo is to understand different integrations of map utilites with React, and try accessing some of the underlying maps' data.
 
 To install, use:
 ```
